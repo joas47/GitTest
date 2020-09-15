@@ -1,7 +1,7 @@
 public class Main {
 
-    private String name;
-    private int age;
+    private final String name;
+    private final int age;
 
     public Main(String name, int age) {
         this.name = name;
